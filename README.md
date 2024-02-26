@@ -1,0 +1,2 @@
+# javascript
+"not" "!" işlendi
